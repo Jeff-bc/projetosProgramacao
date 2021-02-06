@@ -1,2 +1,3 @@
-# projetosProgramacao
- Projetos de programação
+# Exercício de JavaScript
+
+Exercício de arrays.
